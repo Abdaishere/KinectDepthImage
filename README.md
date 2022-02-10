@@ -5,8 +5,8 @@ a simple programm that shows the distance of every obejct in the image using the
 ![gif](./Example.gif)
 
 ## Kinect v1 Requirements
-- Kinect v1 (supported versions??)
-- Kinect v1 power adapter
+- Kinect v1
+- Kinect v1 power adapter for windows
 
 ####  Linux
 
