@@ -1,6 +1,6 @@
 # Kinect depth Image
 
-a simple programm that shows the distance of every obejct in the image using the Kinect v1
+a simple program that shows the distance of every object in the image using the Kinect v1
 
 ![gif](./Example.gif)
 
