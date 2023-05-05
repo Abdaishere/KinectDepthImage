@@ -1,6 +1,6 @@
 # Kinect depth Image
 
-a simple program that shows the distance of every object in the image using the Kinect v1
+This is a simple program that uses the Kinect sensor to display depth data in real-time. It displays an ascii image where each pixel represents the distance to the closest object in the scene. The closer an object is, the lower the value is.
 
 ![gif](./Example.gif)
 
@@ -11,7 +11,9 @@ a simple program that shows the distance of every object in the image using the 
 ####  Linux
 
 Requirements?
-```sudo apt-get install libusb-1.0-0 libusb-1.0-0-dev```
+```bash 
+sudo apt-get install libusb-1.0-0 libusb-1.0-0-dev
+```
 
 #### Windows.
 
